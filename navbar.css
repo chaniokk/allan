@@ -1,0 +1,46 @@
+body{
+    font-family: "montserrat";
+    margin: 0;
+}
+
+.title{
+    text-align: center;
+    background-color: hsl(240, 66%, 77%);
+    color: white;
+    padding-top: 20px; padding-bottom: 20px;
+    
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(240, 66%, 91%);
+    color: white;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-weight: 400;
+    line-height: 16.5pt;
+}
+
+main{
+    margin-left: 20px; margin-right: 20px;
+}
+
+.navbar a{
+    color: rgb(48, 48, 48);
+    font-weight: 600;
+    text-decoration: none;
+    display: block;
+    padding: 12pt;
+    padding-left: 20px;
+    transition: 0.2s;
+}
+.navbar a:hover{
+    background-color: hsl(240, 19%, 83%);
+}
+
+.navbar li{
+    float: left;
+}

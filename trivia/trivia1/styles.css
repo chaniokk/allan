@@ -1,0 +1,60 @@
+.title{
+    font-family: "poppins";
+    font-weight: bold;
+    font-size: 50pt;
+    letter-spacing: 1px;
+    text-align: center;
+    color: white;
+
+    background-color: rgb(134, 167, 235);
+    margin: 0;
+    padding-top: 40pt;
+    padding-bottom: 40pt;
+}
+
+.parts{
+    font-family: "poppins";
+    font-size: 18pt;
+    font-weight: bolder;
+    letter-spacing: 0.5pt;
+
+    margin-top: 40pt;
+    margin-bottom: 10pt;
+}
+
+.questions{
+    font-family: "poppins";
+    font-size: 10pt;
+    font-weight: normal;
+    margin-top: 25pt;
+    margin-bottom: 10pt;
+}
+
+.texts{
+    font-family: "poppins";
+    font-size: 10pt;
+    font-weight: normal;
+    margin: 0;
+}
+
+.btn{
+    font-family: "poppins";
+    font-size: 10pt;
+    font-weight: normal;
+    
+    background-color: rgb(224, 233, 248);
+    border-style: solid;
+    border-width: 1pt;
+    border-radius: 2pt;
+    padding: 5px 12px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-right: 10pt;
+
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn:hover{
+    background-color: white;
+}

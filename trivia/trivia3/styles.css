@@ -1,0 +1,71 @@
+.title{
+    font-family: "montserrat";
+    color: white;
+    text-align: center;
+    padding-top: 60px; padding-bottom: 60px;
+    background-color: rgb(66, 138, 247);
+}
+
+.section{
+    margin-left: 15pt; margin-right: 15pt;
+}
+
+.text{
+    font-family: "montserrat";
+    font-size: 11pt;
+    padding-top: 15pt;
+}
+
+.part1, .part2{
+    font-family: "montserrat";
+    padding-top: 2pt;
+}
+
+.questions{
+    font-family: montserrat light;
+    font-size: 9pt;
+    font-variant: light;
+}
+
+h3{
+    padding-top: 5pt;
+}
+
+#btn{
+    background-color: rgb(233, 233, 255);
+    font-family: montserrat;
+    font-size: 10pt;
+    border-width: 1pt;
+    cursor: pointer;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    margin-right: 10pt;
+    border-radius: 4pt;
+
+    transition: 0.3s;
+}
+
+#btn:hover{
+    background-color: rgb(249, 249, 252);
+}
+
+.feedback{
+    font-size: 10pt;
+    font-weight: bolder;
+}
+
+input{
+    font-family: montserrat;
+    font-size: 10pt;
+    border-width: 1pt;
+    padding-right: 10pt;
+    margin-right: 10pt;
+    border-radius: 4pt;
+    font: optional;
+}
+
+.end{
+    margin-top: 40pt;
+    padding-top: 120px;
+    background-color: rgb(66, 138, 247);
+}

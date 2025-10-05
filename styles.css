@@ -1,0 +1,31 @@
+h1
+{
+    font-family: poppins semibold;
+    text-align: center;
+    background-color: skyblue;
+}
+
+p
+{
+    font-family: poppins light;
+}
+
+button
+{
+    position: relative;
+    font-family: poppins light;
+    font-size: 12pt;
+    padding: 5px 20px;
+    background: transparent;
+    border-color: black;
+    border-radius: 10px;
+    margin-top: 10pt;
+    cursor: pointer;
+    transition: 0.2ms;
+}
+
+.btn:hover
+{
+    background-color: skyblue;
+    color: white;
+}

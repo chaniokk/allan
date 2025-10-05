@@ -1,0 +1,5 @@
+
+function myfunc()
+{
+    alert('woi');
+};
